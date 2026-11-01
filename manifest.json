@@ -1,0 +1,12 @@
+{
+    "display_name": "Approval Roster",
+    "loading_order": 20,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Will",
+    "version": "0.3.2",
+    "homePage": "https://github.com/mercazazel-sudo/ApprovalRoster",
+    "auto_update": true
+}
